@@ -1,0 +1,8 @@
+Abra seu CMD
+
+Se você ja tiver Python instalado na sua máquina, digite:
+
+pip install SpeechRecognition
+pip install pyaudio
+
+Depois disso o programa funciona
